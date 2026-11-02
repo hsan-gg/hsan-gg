@@ -12,6 +12,6 @@
 
 <p align="center">
   <strong><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&autoplay=1">Website</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/hasan-ghorbel-847038287/">LinkedIn</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/hsan-ghorbel-847038287/">LinkedIn</a></strong> |
   <strong><a href="https://projecteuler.net/progress=hsan">Project Euler</a></strong>
 </p>
