@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h1 align="center">hi, i'm <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&autoplay=1">hasan</a>!</h1>
+<h1 align="center">hi, i'm <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&autoplay=1">hsan</a>!</h1>
 <h3 align="center">welcome to my profile 👋</h3>
 
 <p align="center">i'm a student, developper and open to work</p>
